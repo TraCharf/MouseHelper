@@ -1,0 +1,29 @@
+# 打包输出
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
+
+# 配置文件（包含本地路径）
+*.local.json
