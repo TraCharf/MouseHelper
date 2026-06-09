@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows-blue?logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/python-3.11%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/version-1.0-red" alt="Version">
 </p>
 
@@ -63,6 +64,12 @@ build.bat
 - **鼠标模拟:** PyAutoGUI
 - **全局监听:** pynput
 - **打包:** PyInstaller
+
+---
+
+## 📄 开源协议
+
+MIT License © 2026 Fng
 
 ---
 
